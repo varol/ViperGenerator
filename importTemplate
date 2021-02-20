@@ -2,4 +2,4 @@
 # -*- coding: utf-8 -*-
 
 cd $(dirname "$0")
-cp -R ViperModule.xctemplate ~/Applications/Xcode.app/Contents/Developer/Library/Xcode/Templates/File\ Templates/
+cp -R ViperModule.xctemplate ~/Library/Developer/Xcode/Templates
